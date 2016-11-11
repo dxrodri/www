@@ -13,7 +13,7 @@
   </url>
   
   <url>
-    <loc>http://dxrodri.github.io/www/aboutme/</loc>
+    <loc>http://dxrodri.github.io/www/dataanalytics/caltechmachinelearning/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,12 +23,7 @@
   </url>
   
   <url>
-    <loc>http://dxrodri.github.io/www/dataanalytics/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dxrodri.github.io/www/dataanalytics/caltechmachinelearning/</loc>
+    <loc>http://dxrodri.github.io/www/aboutme/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,17 +38,17 @@
   </url>
   
   <url>
+    <loc>http://dxrodri.github.io/www/dataanalytics/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://dxrodri.github.io/www/techskills/projectmgt/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://dxrodri.github.io/www/finance/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dxrodri.github.io/www/techskills/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -69,6 +64,11 @@
   
   <url>
     <loc>http://dxrodri.github.io/www/dataanalytics/datasciencespecialization/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dxrodri.github.io/www/techskills/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
